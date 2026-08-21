@@ -13,3 +13,6 @@ def celsius_to_fahrenheit(c):
 def greet(name):
     """For Part D - you will add this later"""
     return f"Hello, {name}!"
+
+def greet(name):
+    return f"Hello, {name}! Welcome to python_lab."
