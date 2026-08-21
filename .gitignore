@@ -1,0 +1,8 @@
+# Compiled Python cache folders
+__pycache__/
+
+# Compiled Python bytecode files
+*.pyc
+
+# Environment variable files with secrets
+.env
